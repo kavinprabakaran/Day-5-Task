@@ -1,0 +1,64 @@
+{
+    "name": "kavin prabakaran",
+    "title": "Json resume",
+    "contact": {
+      "email": "kavin@gmail.com",
+      "phone": "**************",
+      "linkedin": "kavin@linkedin.com",
+      "github": "https://github.com/"
+    },
+    "education": [
+      {
+        "degree": "BE EEE",
+        "school": "good school",
+        "year": 2020
+      },
+      {
+        "degree": "Bachelor of Electrical and electronic",
+        "school": "Good Institute",
+        "year": 2021
+      }
+    ],
+    "experience": [
+      {
+        "title": "Senior System Engineer",
+        "company": "Tech Company.",
+        "year": "2024 - Present",
+        "responsibilities": [
+          "Developing advanced natural language processing models."
+          
+        ]
+      },
+      {
+        "title": "AI Research Intern",
+        "company": "Innovative Labs",
+        "year": "Summer 2020",
+        "responsibilities": [
+          "Conducting research on language understanding algorithms.",
+          
+        ]
+      }
+    ],
+    "skills": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Python",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Java Script"
+      "HTML"
+      "CSS"
+    ],
+    "languages": [
+      "English (Fluent)",
+      
+    ],
+    "interests": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Problem Solving",
+      "Technology Trends"
+    ]
+  }
+  
